@@ -1,6 +1,6 @@
 ## Next-auth
 
-This is a basic authentication for next-auth
+This is a basic authentication for next-auth, using prisma orm
 
 ## Getting Started
 
